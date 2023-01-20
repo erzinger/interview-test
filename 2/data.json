@@ -1,0 +1,78 @@
+{
+    "pagina1": {
+        "variavel_1": {
+            "value": 64,
+            "unit": "kg"
+        },
+        "variavel_2": {
+            "value": 472,
+            "unit": "kg"
+        },
+        "variavel_3": {
+            "value": 392,
+            "unit": "kg"
+        },
+        "variavel_4": {
+            "value": 93,
+            "unit": "kg"
+        },
+        "variavel_5": {
+            "value": 159,
+            "unit": "kg"
+        },
+        "variavel_6": {
+            "value": 448,
+            "unit": "kg"
+        },
+        "variavel_7": {
+            "value": 176,
+            "unit": "kg"
+        },
+        "variavel_8": {
+            "value": 19,
+            "unit": "kg"
+        },
+        "variavel_9": {
+            "value": 174,
+            "unit": "kg"
+        }
+    },
+    "pagina2": {
+        "variavel_1": {
+            "value": 370,
+            "unit": "kg"
+        },
+        "variavel_2": {
+            "value": 220,
+            "unit": "kg"
+        },
+        "variavel_3": {
+            "value": 120,
+            "unit": "kg"
+        },
+        "variavel_4": {
+            "value": 326,
+            "unit": "kg"
+        },
+        "variavel_5": {
+            "value": 318,
+            "unit": "kg"
+        },
+        "variavel_6": {
+            "value": 312,
+            "unit": "kg"
+        },
+        "variavel_7": {
+            "value": 308,
+            "unit": "kg"
+        },
+        "variavel_8": {
+            "value": 350,
+            "unit": "kg"
+        },
+        "variavel_9": {
+            "value": 16,
+            "unit": "kg"
+        }
+    }
+}
